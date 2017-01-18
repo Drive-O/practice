@@ -1,0 +1,19 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "practice site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drive-O/practice.git"
+  },
+  "author": "Philipp Rost & Robby Hedrich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drive-O/practice/issues"
+  },
+  "homepage": "https://github.com/Drive-O/practice#readme"
+}

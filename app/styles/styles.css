@@ -1,0 +1,13 @@
+#container{
+	width: 1000px;
+	margin: 0 auto; /* zentriere den Container, Parent aller anderen HTML Elemente */
+}
+h1{ 
+	position: absolute;	/* H1 Element richtet sich absolut am Parent aus, */
+	top: 50%;			/* Richte Element 50% von y = 0 aus (+ der Höhe des eigentlichen h1 Elementes) */
+	left: 50%;			/* Gleiche mit Horizontal */
+	transform: translate(-50%, -50%); /* -50% des h1 Elementes auf der x und y Koordinate, um es zu zentrieren */
+	font-family: 'Overpass', sans-serif; /* Setze Schriftart */
+	text-transform: uppercase;
+	color: #2ecc71; /* Zur Anregung https://flatuicolors.com/ */
+}
